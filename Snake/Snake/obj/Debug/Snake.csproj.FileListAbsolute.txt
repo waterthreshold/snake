@@ -1,0 +1,10 @@
+C:\Documents and Settings\jeff_chiang\My Documents\Visual Studio 2008\Projects\Snake\Snake\bin\Debug\Snake.exe
+C:\Documents and Settings\jeff_chiang\My Documents\Visual Studio 2008\Projects\Snake\Snake\bin\Debug\Snake.pdb
+C:\Documents and Settings\jeff_chiang\My Documents\Visual Studio 2008\Projects\Snake\Snake\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jeff_chiang\My Documents\Visual Studio 2008\Projects\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Documents and Settings\jeff_chiang\My Documents\Visual Studio 2008\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Documents and Settings\jeff_chiang\My Documents\Visual Studio 2008\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Documents and Settings\jeff_chiang\My Documents\Visual Studio 2008\Projects\Snake\Snake\obj\Debug\Snake.exe
+C:\Documents and Settings\jeff_chiang\My Documents\Visual Studio 2008\Projects\Snake\Snake\obj\Debug\Snake.pdb
+F:\SPower\Projects\Snake\Snake\obj\Debug\Snake.exe
+F:\SPower\Projects\Snake\Snake\obj\Debug\Snake.pdb
